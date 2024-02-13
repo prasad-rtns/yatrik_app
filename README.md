@@ -1,0 +1,2 @@
+# yatrik_app
+Yatrik
